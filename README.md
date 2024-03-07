@@ -4,6 +4,7 @@ About **NETFLIX**
 The dataset provided to you consists of a list of all the TV shows/movies available on Netflix:**
 
 **Show_id**: Unique ID for every Movie / Tv Show
+
 **Type**: Identifier - A Movie or TV Show
 **Title**: Title of the Movie / Tv Show
 **Director**: Director of the Movie
